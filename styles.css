@@ -1,6 +1,16 @@
 body{background-color: bisque;
     color: brown;
-    font-family: ;
-    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
 
+
+button{
+    background-color: brown;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
