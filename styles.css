@@ -14,3 +14,11 @@ button{
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
